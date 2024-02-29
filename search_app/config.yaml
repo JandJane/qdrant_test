@@ -1,0 +1,11 @@
+raw_data:
+    dir: "data/images"
+    subdirs: ["0", "1"]
+
+resources_dir: "resources"
+vectors_path: "vectors.npz"
+mapping_path: "mapping.joblib"
+
+qdrant:
+    vector_size: 512
+    collection_name: "Ads"
