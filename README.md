@@ -72,13 +72,15 @@ Response:
 ```
 **For image visualization and evaluation, see `notebooks/Test_API.ipynb` notebook.**
 
-![TODO IMAGE](https://ci3.googleusercontent.com/mail-img-att/AGAZnRrfncYS6ySJECTu_V17rzXYwYtmyIVCnT-8ACSPKo7uKy_nxHHW60vlVV0iYyfKK7F2Fx7jMXASUFzWCw9TASeom_9MPClecIlmL7YEiQHbVLQhrMjaYbyP-W16uyt28P-XqzpFtAgbMR1gItdQNvoKtatdfL5Gu96JLTg5ptbdOKja29DeoPNGzZBkwmHpHHBJpfNgtjvT20NTzgHwapPX7IXrBKpJV560M16RUjjDG9-6Bz9nNdc_NTbHlr2Xet7fO_F_tzK9YZ477t7u0l1g_u6wlG-4VzfvC0ACS5z5jZI9I1Mb2rE232_Qub7k9XMiTMFStI48HpFeZ50sLkc85SQQWIurr-5AoOxVNguVPx6dLrCaWebejAYn_RkAmKVkyt0EBvUz0DhVqwQHfhOelK2OIOzGJ7X_j1-cGPGZXv17Mat2trqUK5uXn6rqn9yywV_kPXmyvqFAQnhbDT-Zc_5elCO7HmFZ8aS7V8mwjRjB9LFhrquNHNrbV4qjeP5u0sEauzigwoaI-rRh1-d5_ZVGHOEdfSoNMEJz-EqpmkhdrPEpzcq0aE7idmQ1AS6eYl9_kE1Juv-YkbBN7d6Ppr3lLwbj9ia__NnROBdtV5_58iQU5f2jSET5dtt0LsMVpQ8HGPsEoACZe6FHmyeZdF5xFJ-vcHwTvWxzNPdQXBaG5m4wEwTHoCArmy3zQ4-jTu-8LMwADYYp9YaNHK_EonUAFOBYhs4UmTs9bnkmaVlwA8cvSsk7wTm3VLiZ-wXjBpT1NI4lsTG33MtJ9CtLykCtPEf4AgZ46H5bKX1q8-4aBEWSW9omR0sFw6K6Wgu7vGYubssJ84GirwQa6H0ZHAWd9aJsdXczweA0x3wlxi-IZyjqJpyM1KQm6XGR8_p-nMMKNuJkW9F0PArVYiBnO95osKVbMJddjDweK3ZQgMbXmtTcCiGFj6JTsX0ivLgBlpATaAKUCJfhfwSG-yYoATA2-r1maoLrJe9el4uONHIJDFXGyJ-CXPuzgFfcRn81atZsOT1xQjwm-4OsRYLVwX6bQCL-6DU1LwQPGzMyDo_cBvr1QBU=s0-l75-ft)
+
+![image](https://github.com/JandJane/qdrant_test/assets/23266443/434a07d4-4081-41f0-b32a-b3bf52f9dd39)
+
 
 ## Dataset
 `Advertisement Image Dataset` is used in this MVP. See `notebooks/EDA.ipynb` for data analysis & report.
 
 ## Next steps
-#### Engineering:
+#### Engineering:ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKJtGrUiwplxylvfwDV9bL4QiZHt2DkPDtGS6V5z5Cu0 foggyjandjane@gmail.com
 - Dockerize the API and vector precomputation pipleine. Deploy in the cloud.
 - Make the number of results returned configurable. Tune minimal score threshold.
 - Add tests.
