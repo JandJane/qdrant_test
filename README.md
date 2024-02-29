@@ -80,7 +80,7 @@ Response:
 `Advertisement Image Dataset` is used in this MVP. See `notebooks/EDA.ipynb` for data analysis & report.
 
 ## Next steps
-#### Engineering:ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKJtGrUiwplxylvfwDV9bL4QiZHt2DkPDtGS6V5z5Cu0 foggyjandjane@gmail.com
+#### Engineering:
 - Dockerize the API and vector precomputation pipleine. Deploy in the cloud.
 - Make the number of results returned configurable. Tune minimal score threshold.
 - Add tests.
